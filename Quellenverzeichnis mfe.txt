@@ -1,0 +1,12 @@
+=== Quellenverzeichnis und Nutzungsrechte ===
+
+12-15; Codefragmente Enums und Structs; Marco Feltmann; 2017; Do What The Fuck You Want To Public License; https://www.wtfpl.net/txt/copying
+"You just DO WHAT THE FUCK YOU WANT TO."
+
+16; Würfelarrangement; Marco Feltmann; 2017; Do What The Fuck You Want To Public License; https://www.wtfpl.net/txt/copying
+
+24; Backgammon Doppler Würfel; Marco Feltmann; 2017; Do What The Fuck You Want To Public License; https://www.wtfpl.net/txt/copying
+
+33; Three Shades Of Zombie Dice; Marco Feltmann; 2017; Do What The Fuck You Want To Public License; https://www.wtfpl.net/txt/copying
+
+35; Schweinewürfel; Marco Feltmann; 2017; Do What The Fuck You Want To Public License; https://www.wtfpl.net/txt/copying

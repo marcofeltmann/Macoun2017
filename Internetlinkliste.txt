@@ -1,0 +1,4 @@
+=== Quellenverzeichnis und Nutzungsrechte ===
+Folie; Titel; Weblink
+05; On Computable Numbers, with an application to the Entscheidungsproblem; https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+17; Iran's Burnt City Throws up World's Oldest Backgammon; http://www.parstimes.com/history/oldest_backgammon.html
